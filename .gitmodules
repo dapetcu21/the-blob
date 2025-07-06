@@ -1,0 +1,9 @@
+[submodule "the-blob-zmk-config"]
+	path = the-blob-zmk-config
+	url = https://github.com/dapetcu21/the-blob-zmk-config.git
+[submodule "the-blob-zmk-module"]
+	path = the-blob-zmk-module
+	url = https://github.com/dapetcu21/the-blob-zmk-module.git
+[submodule "zmk"]
+	path = zmk
+	url = https://github.com/zmkfirmware/zmk.git
