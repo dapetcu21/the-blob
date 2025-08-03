@@ -6,4 +6,4 @@
 	url = https://github.com/dapetcu21/the-blob-zmk-module.git
 [submodule "zmk"]
 	path = zmk
-	url = https://github.com/zmkfirmware/zmk.git
+	url = https://github.com/dapetcu21/zmk.git
